@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Jaime 👋
 
-<!--
-**jgimillo/jgimillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious by nature. Interested in understanding how things work, from first principles to real-world systems.
 
-Here are some ideas to get you started:
+## 🎓 Studies & learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Double Degree in Computer Engineering & Mathematics**  
+  _Universidad Autónoma de Madrid (UAM)_
+
+- **Artificial Intelligence Professional Program**  
+  _Stanford School of Engineering (Online)_
+
+- Strong interest in:
+  - Machine Learning
+  - Natural Language Processing
+  - Topological Data Analysis
+
+## ✨ Work
+
+I currently work as a **GenAI Engineer at Accenture**, helping clients to develop solutions based on **LLMs and agent-based systems**.
+
+I have over a year of hands-on experience working with technologies such as **Databricks, MLflow, LangChain, PySpark**, among others, focusing on building reliable and production-oriented AI workflows.
+
+## 🌐 More
+
+You can find my projects, CV, thesis works, and blog posts at **[jaimegimillo.me](https://jaimegimillo.me)**.
