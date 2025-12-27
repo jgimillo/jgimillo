@@ -1,6 +1,6 @@
 ## Hi, I'm Jaime 👋
 
-Curious by nature. Interested in understanding how things work, from first principles to real-world systems.
+Exploring AI at the intersection of mathematics, machine learning, and real-world applications.
 
 ## 🎓 Studies & learning
 
@@ -21,6 +21,6 @@ I currently work as a **GenAI Engineer at Accenture**, helping clients to develo
 
 I have over a year of hands-on experience working with technologies such as **Databricks, MLflow, LangChain, PySpark**, among others, focusing on building reliable and production-oriented AI workflows.
 
-## 🌐 More
+## 🔗 More
 
 You can find my projects, CV, thesis works, and blog posts at **[jaimegimillo.me](https://jaimegimillo.me)**.
